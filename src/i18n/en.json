@@ -1,0 +1,69 @@
+{
+  "MENU":{
+    "myProfile": "My profile",
+    "logout": "Logout",
+    "songRequests": "Song requests",
+    "logoutSuccess": "Successfully logged out"
+  },
+  "USER":{
+    "PROFILE": {
+      "myProfile": "My Profile",
+      "djCode": "DJ Code",
+      "email": "Email",
+      "username": "Username",
+      "updateDetail": "Update details",
+      "cahngePasswordTitle": "Change Password",
+      "password": "Password",
+      "repeatPassword": "Repeat Password",
+      "changePasswordBtn": "Change Password",
+      "detailsSuccess": "Details updated successfully",
+      "passwordSuccess": "Password updated successfully"
+    },
+    "REQUESTSONG": {
+      "title": "Request a song"
+    }
+  },
+  "REGISTER":{
+    "REGISTER": {
+      "warningMessage": "This app has no backend yet, so any details can be used to register, as it is not stored in a DB.",
+      "djLabel": "DJ",
+      "signupTitle": "Sign up",
+      "registerButton": "Register",
+      "alreadyAccount": "Already have an account? Log in.",
+      "formHasErrors": "Please fill in all the fields"
+    },
+    "DJREGISTERFORM":{
+      "djLabel": "DJ Name",
+      "djError": "DJ name cant be blank"
+    },
+    "USERREGISTERFORM":{
+      "email": "Email", 
+      "emailError": "Invalid email", 
+      "password": "Password", 
+      "repeatPassword": "Repeat password", 
+      "repeatPasswordError": "Make sure passwords match",
+      "passwordError": "Password lenght must be atleast 8 chars"
+    }
+  },
+  "LOGIN": {
+    "LOGIN": {
+      "loginLabel": "Login",
+      "email": "Email",
+      "password": "Password",
+      "loginBtn": "Login",
+      "dontHaveAcc": "Don't have an account? Register."
+    }
+  },
+  "ADMIN": {
+    "DASHBOARD": {
+      "DjDashboard": {
+        "name": "Song Name",
+        "link": "Link",
+        "played": "Played",
+        "date": "Date Requested",
+        "openSpotify": "Open in spotify",
+        "updateSuccess": "Song updated sucessfully"
+      }
+    }
+  }
+}
