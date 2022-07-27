@@ -1,3 +1,19 @@
+# DJ App frontend 
+
+The goal of the app is for users to make reqesuts to DJs.
+
+## DJs
+This user type will have a dashboard with requests from users at the party or event. 
+
+## Users
+Users will be able to scan a QR code or visit a website and enter a DJ code. They will then be able to request songs from the integrated youtube api and send the requests directly to the dj.
+
+## Future ideas
+- Tip the dj
+- Follow the dj for new events
+- Leave a note 
+- Spotify integration 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
