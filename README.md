@@ -1,4 +1,4 @@
-# DJ App frontend 
+# DJ App frontend (in development)
 
 The goal of the app is for users to make reqesuts to DJs.
 
