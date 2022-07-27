@@ -3,7 +3,7 @@
 The goal of the app is for users to make reqesuts to DJs.
 
 ## DJs
-This user type will have a dashboard with requests from users at the party or event. 
+This user type will have a dashboard with requests from users at the party or event. On the dashboard the DJ would be able to open songs directly in youtube/spotify, and mark the song as played.
 
 ## Users
 Users will be able to scan a QR code or visit a website and enter a DJ code. They will then be able to request songs from the integrated youtube api and send the requests directly to the dj.
